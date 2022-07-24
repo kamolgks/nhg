@@ -21,7 +21,7 @@ $(function () {
 }); 
 $(function () { 
     $(".typed").typed({ 
-        strings: ["Kamolgks"], 
+        strings: ["Azizbek Xamidov"], 
         typeSpeed: 40, 
         backSpeed: 0, 
         cursorChar: ['❚'], 
