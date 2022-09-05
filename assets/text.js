@@ -21,7 +21,7 @@ $(function () {
 }); 
 $(function () { 
     $(".typed").typed({ 
-        strings: ["Kamol Tukhtabaev"], 
+        strings: ["Kamol Tukhtabaev", "Beginner nedoпрограммист", "love coffee", "Вио канал снизу👇"], 
         typeSpeed: 40, 
         backSpeed: 0, 
         cursorChar: ['❚'], 
